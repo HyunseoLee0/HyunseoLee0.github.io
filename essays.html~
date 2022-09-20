@@ -1,20 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <meta charset="UTF-8">
-  <title>Hyunseo's Digital Portfolio</title>
+  <title>Essays</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="stylesheet" href="style.css">
   <body>
     <img src="https://thumbs.gfycat.com/AnnualHatefulAltiplanochinchillamouse-max-1mb.gif" alt="Welcome!" class="welcomePic">
-    <h1 class="welcome">Welcome To My Digital Portfolio!!</h1>
+    <h1 class="welcome">Welcome To Essays!!</h1>
     <p class="click"><b>Click the links below to navigate!</b></p>
     <div class="navigator">
-      <a class="btn" href="aboutme.html">About Me</a>
-      <a class="btn" href="importance.html">Importance</a>
-      <a class="btn" href="classes.html">Classes</a>
-      <a class="btn" href="ispproject.html">ISP Project</a>
-      <a class="btn" href="essays.html">Essays</a>
-      <a class="btn" href="projects.html">Projects</a>
+      <a class="btn" href="CS-II/Essays/Fingerprints.html">Fingerprints</a>
+      <a class="btn" href="CS-II/Essays/AI Sentience.html">AI Sentience</a>
     </div>
     <div class="linkclass">
       <a class="link" href="https://hyunseolee0.github.io"><b>Click Here To Get To My Github<br>https://HyunseoLee0.github.io</b></a>

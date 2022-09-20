@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8">
+  <title>Classes</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+  <body>
+    <img src="https://thumbs.gfycat.com/AnnualHatefulAltiplanochinchillamouse-max-1mb.gif" alt="Welcome!" class="welcomePic">
+    <h1 class="welcome">Welcome to Classes Page!</h1>
+    <p><b>My Previous/Current Classes</b></p>
+    <h4 class="essay classes"><strong>Computer Science I, II</strong><br><br>Last year, I took Computer Science I. I learned many topics about the coding of swift. I learned about the boolean algebra, number systems, logical operations, making functions, arrays, etc. I've also made the Tetris game using swift, canvas, and codermerlin igis. I'm taking Computer Science II now. I hope to use these skills I've learned last year and improve my coding skill of HTML and CSS.</h4>
+    <div class="linkclass">
+      <a class="link" href="index.html"><b>Click Here To Get To Home</b></a>
+    </div>
+  </body>
+</html>

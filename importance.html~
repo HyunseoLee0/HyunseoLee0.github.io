@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8">
+  <title>Importance of Digital Portfolio</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+  <body>
+    <img src="https://thumbs.gfycat.com/AnnualHatefulAltiplanochinchillamouse-max-1mb.gif" alt="Welcome!" class="welcomePic">
+    <h1 class="welcome">Welcome to Importance of Digital Portfolio Page!</h1>
+    <p><b>Why is my Digital Portfolio important to me?</b></p>
+    <h4 class="essay importance"><strong>The Digital Portfolio is important because...</strong><br><br>1. My Digital Portfolio is important to me because this shows all my progress and accomplishments in my Computer Science life. This also allows me to look back on my past myself in future.<br>2. For another reason, by creating the Digital Portfolio, my coding skills can be improved. I had never used about HTML and CSS because I wanted to creat my own website, but I had no idea where to start.</h4>
+    <div class="linkclass">
+      <a class="link" href="index.html"><b>Click Here To Get To Home</b></a>
+    </div>
+  </body>
+</html>
