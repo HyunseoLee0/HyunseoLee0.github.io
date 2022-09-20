@@ -41,13 +41,13 @@ p {
     background-color: darkgray;
     border-bottom: 2px solid gray;
 }
-.linkclass {
-    position: absolute;
+.linkclass {/*
+    position: relative;
     bottom: 30px;
     margin-right: auto;
     margin-left: auto;
     left: 0px;
-    right: 0px;
+    right: 0px;*/
     text-align: center;
 }
 .link {
@@ -62,7 +62,7 @@ p {
     border-bottom: 5px solid lightcoral;
     border-radius: 10px;
     padding: 20px;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 300px;
+    margin-right: 300px;
     transition: all 0.5s;
 }
