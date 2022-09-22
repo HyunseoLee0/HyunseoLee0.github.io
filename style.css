@@ -41,13 +41,7 @@ p {
     background-color: darkgray;
     border-bottom: 2px solid gray;
 }
-.linkclass {/*
-    position: relative;
-    bottom: 30px;
-    margin-right: auto;
-    margin-left: auto;
-    left: 0px;
-    right: 0px;*/
+.linkclass {
     text-align: center;
 }
 .link {
@@ -55,14 +49,17 @@ p {
     font-family: 'Verdana',Sans-serif;
     color: forestgreen;
 }
+.essayclass {
+    text-align: center;
+}
 .essay {
     text-align: center;
     font-family: 'Trirong', serif;
     background-color: lightpink;
     border-bottom: 5px solid lightcoral;
     border-radius: 10px;
-    padding: 20px;
-    margin-left: 300px;
-    margin-right: 300px;
+    margin: 20px;
+    padding: 20px 20px 20px 20px;
+    display: inline-block;
     transition: all 0.5s;
 }
