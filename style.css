@@ -19,6 +19,13 @@ p {
     margin-left: auto;
     margin-right: auto;
 }
+.flowchart {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 1000px;
+}
 .navigator {
     text-align: center;
 }
@@ -50,16 +57,15 @@ p {
     color: forestgreen;
 }
 .essayclass {
-    text-align: center;
+    width: 1500px;
+    position: relative;
+    margin: 100px auto;
 }
 .essay {
-    text-align: center;
     font-family: 'Trirong', serif;
     background-color: lightpink;
     border-bottom: 5px solid lightcoral;
     border-radius: 10px;
-    margin: 20px;
     padding: 20px 20px 20px 20px;
-    display: inline-block;
     transition: all 0.5s;
 }
