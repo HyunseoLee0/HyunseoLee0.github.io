@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8">
+  <title>2021-2022 ISP</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="../../style.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+  <body>
+    <img src="https://thumbs.gfycat.com/AnnualHatefulAltiplanochinchillamouse-max-1mb.gif" alt="Welcome!" class="welcomePic">
+    <h1 class="welcome">Welcome to 2021-2022 ISP Page!</h1>
+    <p><b>My ISP (2021-2022)</b></p>
+    <div class="essayclass">
+      <h2 class="essay"><strong>What is the Tetris game?</strong><br><br>The Tetris game is a puzzle video game in which falling tetrominoes must be manipulated to form complete lines, which are then cleared from the grid.</h2>
+      <h2 class="essay"><strong><u>Motivation</u></strong><br><br>My ISP group asked ourselves "What is the game that we all played at least once in our lives and enjoyed?", and that answer is TETRIS. This is a popular game and all of our group members have played at one point of our lives. So we decided to create this game ourselves.</h2>
+      <h2 class="essay"><strong><u>Concept</u></strong><br><br>Completing lines by moving differently shaped pieces, which descend onto the playing field. The blocks have to fall in a certain order to gain points which makes the game fun to play. The completed lines disappear and grant the player points.</h2>
+      <h2 class="essay"><strong><u>Code Explanations</u></strong><br><br>There is code to move the block left, down, right using the arrow keys. Also there is code to get points equal to the number of complete lines. The lines will be removed when they are completed.</h2>
+      <h2 class="essay"><strong><u>Conclusions</u></strong><br><br>I had a lot of problems about communicating with group members because I was not good at English, but we can communicate easier using text messages. Also, we have some problems about making the functions about the game, but we can overcome with team members.</h2>
+      <h2 class="essay"><strong><u>More Informations</u></strong>: <a href="https://docs.google.com/presentation/d/141P8rW6bXeXSy85nOw_vWgIcVRL6kA_JqkTCXuo6j4k">ISP Project Presentation</a></h2>
+    </div>
+    <div class="linkclass">
+      <a class="link" href="index.html"><b>Click Here To Get To Home<br><br><br></b></a>
+    </div>
+  </body>
+</html>
